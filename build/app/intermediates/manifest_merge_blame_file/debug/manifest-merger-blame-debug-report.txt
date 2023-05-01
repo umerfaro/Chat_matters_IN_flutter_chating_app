@@ -6,15 +6,15 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-9        android:targetSdkVersion="31" />
+9        android:targetSdkVersion="33" />
 10    <!--
 11         The INTERNET permission is required for development. Specifically,
 12         the Flutter tool needs it to communicate with the running application
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\programming\M-Box-Login-UI-main\M-Box-Login-UI-main\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->D:\programming\M-Box-Login-UI-main\M-Box-Login-UI-main\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->D:\Flutter project\M-Box-Login-UI-main\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->D:\Flutter project\M-Box-Login-UI-main\android\app\src\debug\AndroidManifest.xml:7:22-64
 16
 17    <application
 18        android:name="android.app.Application"

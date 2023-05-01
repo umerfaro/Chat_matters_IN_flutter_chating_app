@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\programming\\M-Box-Login-UI-main\\M-Box-Login-UI-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Flutter project\\M-Box-Login-UI-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\programming\\M-Box-Login-UI-main\\M-Box-Login-UI-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\Flutter project\\M-Box-Login-UI-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
