@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lgoin_ui/Login_screen.dart';
+import 'package:lgoin_ui/Splash_screen.dart';
 
 
 
@@ -20,7 +21,7 @@ class Login extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Loginscreen(),
+      home: Spalash_Screen(),
     );
   }
 }
