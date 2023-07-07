@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.lgoin_ui",
+  "applicationId": "com.Grosko.chatMatters",
   "variantName": "debug",
   "elements": [
     {

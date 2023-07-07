@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930621781095",
+    "project_id": "chatmatters-b7b57",
+    "storage_bucket": "chatmatters-b7b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930621781095:android:73fdd819efa3ad35ddd0c2",
+        "android_client_info": {
+          "package_name": "com.Grosko.chatMatters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFP_vegRIWY40d-FTkKJgjbF4hKgBQbzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

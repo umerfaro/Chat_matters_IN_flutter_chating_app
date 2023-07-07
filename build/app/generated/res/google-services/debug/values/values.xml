@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">930621781095</string>
+    <string name="google_api_key" translatable="false">AIzaSyDFP_vegRIWY40d-FTkKJgjbF4hKgBQbzc</string>
+    <string name="google_app_id" translatable="false">1:930621781095:android:73fdd819efa3ad35ddd0c2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFP_vegRIWY40d-FTkKJgjbF4hKgBQbzc</string>
+    <string name="google_storage_bucket" translatable="false">chatmatters-b7b57.appspot.com</string>
+    <string name="project_id" translatable="false">chatmatters-b7b57</string>
+</resources>
